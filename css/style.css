@@ -1,0 +1,89 @@
+body{
+    background: #baa0c0aa;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #2e0323;
+    font-size: 60px;
+    font-weight: 700;
+}
+h2{
+    text-align: center;
+    color: #2e0323;
+    font-size: 60px;
+    font-weight: 700;  
+}
+p {
+    font-size: 22px;
+    width: 900px;
+    margin: 0 auto;
+}
+#hero{
+width: 50%;
+border-radius: 50px;
+margin-top: 100px;
+margin-bottom: 100px;
+}
+form {
+    background: #a797a7;
+    width: 80%;
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 40px;
+    color: #ffffff;
+    border: 2px solid #000000;
+    border-radius: 20px;
+    text-align: left;
+
+}
+form label{
+    width: 100%;
+    display: block;
+    font-size: 22px;
+    font-weight: 700;
+    
+}
+form input, form textarea, form select{
+    font-size: 20px;
+    padding: 10px 20px;
+    width: 86%;
+
+}
+form button{
+    background: black;
+    color: #ffffff;
+    padding: 15px 50px;
+    font-size: 22px;
+    width: 100%;
+    cursor: pointer;
+    border: 2px solid #000000;
+    transition: .5s;
+}
+form button:hover{
+    background: transparent;
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+    
+}
+section{
+    width: 100%;
+    min-height: 500px;
+    padding: 60px 0;
+    text-align: center;
+    background: url(../img/#);
+    background-size: cover;
+}
+section button{
+    padding: 12px 30px;
+    background: ;
+    color: ;
+    font-size: 25px;
+
+}
+section button:hover{
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+
+}
